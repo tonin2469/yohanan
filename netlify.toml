@@ -1,6 +1,5 @@
 [build]
-  base = "fotojornalismo_machado"
-  publish = "fotojornalismo_machado"
+  publish = "."
   command = ""
 
 [[redirects]]
